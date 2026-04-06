@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": "osobni",
+      "name": "Osobní auto",
+      "description": "Hatchback, sedan, kombi",
+      "icon": "FiNavigation",
+      "multiplier": 1.0
+    },
+    {
+      "id": "suv",
+      "name": "SUV / Crossover",
+      "description": "SUV, crossover, terénní",
+      "icon": "FiTruck",
+      "multiplier": 1.25
+    },
+    {
+      "id": "dodavka",
+      "name": "Dodávka / Užitkové",
+      "description": "Dodávka, pick-up, mikrobus",
+      "icon": "FiPackage",
+      "multiplier": 1.5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "days": [
+    { "label": "Pondělí", "hours": "7:00–18:00" },
+    { "label": "Úterý", "hours": "7:00–18:00" },
+    { "label": "Středa", "hours": "7:00–18:00" },
+    { "label": "Čtvrtek", "hours": "7:00–18:00" },
+    { "label": "Pátek", "hours": "7:00–17:00" },
+    { "label": "Sobota", "hours": "8:00–12:00" },
+    { "label": "Neděle", "closed": true, "note": "Zavřeno" }
+  ],
+  "note": "V případě akutní poruchy volejte naši nonstop linku."
+}

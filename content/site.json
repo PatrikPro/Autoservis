@@ -1,0 +1,78 @@
+{
+  "brandName": "ProFit Autoservis",
+  "hero": {
+    "headline": "Váš vůz v těch nejlepších rukou.",
+    "subheadline": "Profesionální autoservis s moderním vybavením a transparentními cenami.",
+    "ctaLabel": "Objednat se",
+    "ctaHref": "/rezervace",
+    "secondaryCtaLabel": "Kalkulačka cen",
+    "secondaryCtaHref": "/kalkulacka"
+  },
+  "about": {
+    "title": "O nás",
+    "text": "ProFit Autoservis funguje od roku 2011. Specializujeme se na kompletní servis osobních i užitkových vozidel. Naše dílna je vybavena moderní diagnostikou a pracujeme výhradně s kvalitními díly a materiály."
+  },
+  "whyUs": {
+    "sectionLabel": "Proč ProFit",
+    "title": "Proč nám svěřit své auto",
+    "items": [
+      {
+        "icon": "FiShield",
+        "title": "Certifikovaní mechanici",
+        "description": "Náš tým prošel certifikací předních výrobců a pravidelně se školí."
+      },
+      {
+        "icon": "FiDollarSign",
+        "title": "Transparentní ceny",
+        "description": "Kalkulačka cen online. Žádné skryté poplatky, vždy víte, za co platíte."
+      },
+      {
+        "icon": "FiClock",
+        "title": "Rychlé termíny",
+        "description": "Většinu běžných servisů zvládneme do 24 hodin od objednání."
+      },
+      {
+        "icon": "FiTool",
+        "title": "Moderní vybavení",
+        "description": "Diagnostika poslední generace, profesionální nářadí a originální díly."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Reference",
+    "title": "Co říkají naši zákazníci",
+    "items": [
+      {
+        "name": "Martin Dvořák",
+        "text": "Výměna brzd proběhla rychle a za férovou cenu. Oceňuji, že mi předem řekli přesnou částku.",
+        "vehicle": "Škoda Octavia 2019"
+      },
+      {
+        "name": "Jana Kovářová",
+        "text": "Skvělý přístup. Přezutí pneumatik včetně vyvážení za hodinu, navíc mi umyli auto zdarma.",
+        "vehicle": "VW Golf 2021"
+      },
+      {
+        "name": "Petr Svoboda",
+        "text": "Diagnostika odhalila problém, který jiný servis přehlédl. Profesionálové na svém místě.",
+        "vehicle": "Ford Focus 2018"
+      },
+      {
+        "name": "Lucie Černá",
+        "text": "Konečně servis, kde se nemusím bát, že mi naúčtují něco navíc. Doporučuji všem.",
+        "vehicle": "Hyundai Tucson 2022"
+      }
+    ]
+  },
+  "sectionTitles": {
+    "services": "Naše služby",
+    "gallery": "Z naší dílny",
+    "team": "Náš tým"
+  },
+  "contact": {
+    "address": "Průmyslová 42, Praha 10",
+    "phone": "+420 777 888 999",
+    "email": "info@profitautoservis.cz",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2561.5!2d14.505751!3d50.065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1"
+  }
+}

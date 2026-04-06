@@ -1,0 +1,161 @@
+{
+  "categories": [
+    { "id": "pneuservis", "name": "Pneuservis", "description": "Přezutí, výměna a oprava pneumatik", "icon": "FiDisc", "order": 1 },
+    { "id": "oleje", "name": "Oleje a filtry", "description": "Výměna motorového oleje a filtrů", "icon": "FiDroplet", "order": 2 },
+    { "id": "brzdy", "name": "Brzdy", "description": "Výměna brzdových destiček, kotoučů a kapaliny", "icon": "FiOctagon", "order": 3 },
+    { "id": "diagnostika", "name": "Diagnostika", "description": "Kompletní počítačová diagnostika závad", "icon": "FiCpu", "order": 4 },
+    { "id": "klimatizace", "name": "Klimatizace", "description": "Plnění, čištění a servis klimatizace", "icon": "FiWind", "order": 5 },
+    { "id": "karoserie", "name": "Karoserie", "description": "Opravy plechů, lakování a PDR", "icon": "FiTruck", "order": 6 }
+  ],
+  "items": [
+    {
+      "id": "prezuti-pneu",
+      "name": "Přezutí pneumatik",
+      "description": "Sezónní přezutí včetně vyvážení a kontroly stavu pneumatik.",
+      "basePrice": 800,
+      "category": "pneuservis",
+      "badge": "Sezónní",
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "oprava-defektu",
+      "name": "Oprava defektu",
+      "description": "Oprava propíchnuté pneumatiky bez nutnosti výměny.",
+      "basePrice": 350,
+      "category": "pneuservis",
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "nove-pneumatiky",
+      "name": "Výměna pneumatik (nové)",
+      "description": "Montáž a vyvážení nových pneumatik. Cena bez pneumatik.",
+      "basePrice": 1200,
+      "category": "pneuservis",
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "vymena-oleje",
+      "name": "Výměna motorového oleje",
+      "description": "Výměna oleje včetně olejového filtru. Cena včetně standardního oleje.",
+      "basePrice": 1500,
+      "category": "oleje",
+      "badge": "Oblíbené",
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "vymena-filtru",
+      "name": "Výměna vzduchového filtru",
+      "description": "Výměna vzduchového filtru motoru za nový.",
+      "basePrice": 600,
+      "category": "oleje",
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "komplet-filtry",
+      "name": "Kompletní výměna filtrů",
+      "description": "Olejový, vzduchový, pylový a palivový filtr najednou.",
+      "basePrice": 2800,
+      "category": "oleje",
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "brzdove-desticky-predni",
+      "name": "Výměna brzdových destiček (přední)",
+      "description": "Výměna předních brzdových destiček včetně kontroly kotoučů.",
+      "basePrice": 2200,
+      "category": "brzdy",
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "brzdove-kotouce",
+      "name": "Výměna brzdových kotoučů",
+      "description": "Výměna kotoučů i destiček na jedné nápravě.",
+      "basePrice": 4500,
+      "category": "brzdy",
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "brzdova-kapalina",
+      "name": "Výměna brzdové kapaliny",
+      "description": "Kompletní výměna brzdové kapaliny DOT4.",
+      "basePrice": 900,
+      "category": "brzdy",
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "diagnostika-komplet",
+      "name": "Kompletní diagnostika",
+      "description": "Počítačová diagnostika všech systémů vozidla s výpisem závad.",
+      "basePrice": 990,
+      "category": "diagnostika",
+      "badge": "Doporučujeme",
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "diagnostika-motor",
+      "name": "Diagnostika motoru",
+      "description": "Detailní diagnostika řídící jednotky motoru.",
+      "basePrice": 690,
+      "category": "diagnostika",
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "emise",
+      "name": "Měření emisí",
+      "description": "Měření emisí dle platné legislativy včetně protokolu.",
+      "basePrice": 500,
+      "category": "diagnostika",
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "plneni-klima",
+      "name": "Plnění klimatizace",
+      "description": "Plnění chladiva R134a nebo R1234yf, vakuování a test těsnosti.",
+      "basePrice": 1800,
+      "category": "klimatizace",
+      "badge": "Léto",
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "cisteni-klima",
+      "name": "Čištění a dezinfekce klima",
+      "description": "Ozonové čištění a dezinfekce celého klimatizačního systému.",
+      "basePrice": 790,
+      "category": "klimatizace",
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "oprava-plechu",
+      "name": "Oprava plechů",
+      "description": "Klempířské opravy drobných i větších poškození karoserie.",
+      "basePrice": 3500,
+      "category": "karoserie",
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "pdr",
+      "name": "PDR – oprava bez lakování",
+      "description": "Odstranění menších promáčklin bez poškození laku.",
+      "basePrice": 1500,
+      "category": "karoserie",
+      "badge": "Novinka",
+      "available": true,
+      "order": 2
+    }
+  ]
+}

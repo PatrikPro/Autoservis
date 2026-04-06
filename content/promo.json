@@ -1,0 +1,10 @@
+{
+  "isActive": true,
+  "headline": "Sezóna přezutí pneumatik",
+  "text": "Objednejte se online a získejte uskladnění pneumatik na celou sezónu zdarma.",
+  "ctaLabel": "Objednat přezutí",
+  "ctaHref": "/rezervace",
+  "validFrom": "2026-03-15",
+  "validTo": "2026-05-15",
+  "icon": "FiDisc"
+}
