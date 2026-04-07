@@ -4,21 +4,21 @@
       "name": "Tomáš Procházka",
       "role": "Vedoucí dílny",
       "bio": "20 let praxe v autoservisech. Certifikace Bosch a Continental. Specialista na motorovou diagnostiku.",
-      "image": "/images/team-tomas.svg",
+      "image": "/images/team-tomas.jpg",
       "order": 1
     },
     {
       "name": "Radek Novotný",
       "role": "Mechanik – pneuservis",
       "bio": "Odborník na pneumatiky a podvozky. Pravidelně školený u výrobců prémiových pneumatik.",
-      "image": "/images/team-radek.svg",
+      "image": "/images/team-radek.jpg",
       "order": 2
     },
     {
       "name": "Pavel Kučera",
       "role": "Karosář a lakýrník",
       "bio": "Precizní práce s karoserií a laky. Specializace na PDR techniku a smart repair.",
-      "image": "/images/team-pavel.svg",
+      "image": "/images/team-pavel.jpg",
       "order": 3
     }
   ]

@@ -2,8 +2,8 @@
   "beforeAfter": [
     {
       "id": "ba-1",
-      "beforeSrc": "/images/before-brakes.svg",
-      "afterSrc": "/images/after-brakes.svg",
+      "beforeSrc": "/images/before-brakes.jpg",
+      "afterSrc": "/images/after-brakes.jpg",
       "beforeAlt": "Opotřebené brzdové destičky před výměnou",
       "afterAlt": "Nové brzdové destičky po výměně",
       "title": "Výměna brzdových destiček",
@@ -11,8 +11,8 @@
     },
     {
       "id": "ba-2",
-      "beforeSrc": "/images/before-bodywork.svg",
-      "afterSrc": "/images/after-bodywork.svg",
+      "beforeSrc": "/images/before-bodywork.jpg",
+      "afterSrc": "/images/after-bodywork.jpg",
       "beforeAlt": "Poškozený blatník před opravou",
       "afterAlt": "Opravený blatník po lakování",
       "title": "Oprava karoserie + lak",
@@ -22,25 +22,25 @@
   "workshop": [
     {
       "id": "ws-1",
-      "src": "/images/workshop-1.svg",
+      "src": "/images/workshop-1.jpg",
       "alt": "Moderní dílna ProFit Autoservis s hydraulickými zvedáky",
       "order": 1
     },
     {
       "id": "ws-2",
-      "src": "/images/workshop-2.svg",
+      "src": "/images/workshop-2.jpg",
       "alt": "Diagnostické pracoviště s počítačovým vybavením",
       "order": 2
     },
     {
       "id": "ws-3",
-      "src": "/images/workshop-3.svg",
+      "src": "/images/workshop-3.jpg",
       "alt": "Skladové pneumatiky a pneuservisní vybavení",
       "order": 3
     },
     {
       "id": "ws-4",
-      "src": "/images/workshop-4.svg",
+      "src": "/images/workshop-4.jpg",
       "alt": "Čekárna pro zákazníky s kávovarem",
       "order": 4
     }
